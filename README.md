@@ -1,8 +1,8 @@
 # Hi, I'm Jade Xu!
 
-
+(IMG_5739.jpg)
 🎓 Senior at University of Florida, studying Computer Science with a minor in Mathematics
-🔭 Aspiring Data Scientist and Machine Learning and Sustainability Enthusiast
+🔭 Aspiring Data Scientist/Machine Learning Engineer and Sustainability Enthusiast
 
 I'm a data enthusiast who loves bringing geographic and environmental insights to life through visualizations. As president of my university's hiking club, I combine my passion for nature and sustainability with analytical skills—using math-driven approaches to optimize data analysis and build machine learning models. Whether I'm exploring trails or exploring datasets, I'm always looking for patterns that tell compelling stories about our world.
 

@@ -1,6 +1,7 @@
-# Hi, I'm Jade Xu!
+<img src="IMG_5739.jpg" height="300" width = "1000">
+<b>
 
-![My partner and I kayaking](IMG_5739.jpg)<b>
+# Hi, I'm Jade Xu!
 🎓 Senior at University of Florida, studying Computer Science with a minor in Mathematics <br>
 🔭 Aspiring Data Scientist/Machine Learning Engineer and Sustainability Enthusiast </b>
 

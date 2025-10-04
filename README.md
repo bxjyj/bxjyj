@@ -14,7 +14,7 @@ Tools & Technology: Git, Docker, Agile, ArcGIS Pro, ArcGIS Online, Google Earth 
 Certificates: Machine Learning Foundations, Fundamentals of Deep Learning, Building Models for GIS Analysis Using ArcGIS
  
 
-###📫 How to Reach Me:
+##📫 How to Reach Me:
 LinkedIn: linkedin.com/in/yourprofile (*link your profile URL)
  
 

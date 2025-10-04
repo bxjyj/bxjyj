@@ -9,9 +9,9 @@ I'm a data enthusiast who loves bringing geographic and environmental insights t
 
 
 ## 🛠 Tech Stack: <br>
-Languages: Python, C++, SQL, MATLAB, Julia, R, Java, HTML, CSS, JS
-Frameworks & Libraries: React, Numpy, Pandas, scikit-learn, TensorFlow
-Tools & Technology: Git, Docker, Agile, ArcGIS Pro, ArcGIS Online, Google Earth Pro, QGIS, Excel
+Languages: Python, C++, SQL, MATLAB, Julia, R, Java, HTML, CSS, JS <br>
+Frameworks & Libraries: React, Numpy, Pandas, scikit-learn, TensorFlow <br>
+Tools & Technology: Git, Docker, Agile, ArcGIS Pro, ArcGIS Online, Google Earth Pro, QGIS, Excel <br>
 Certificates: Machine Learning Foundations, Fundamentals of Deep Learning, Building Models for GIS Analysis Using ArcGIS
  
 
